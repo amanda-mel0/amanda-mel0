@@ -1,5 +1,5 @@
-<img align="right" alt="Coding Girl" width="380" src=![Uploading image.png…]()
-" />
+![Uploading image.png…]()
+
 
 Eu sou Amanda Melo
 
