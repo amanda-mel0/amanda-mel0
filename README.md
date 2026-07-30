@@ -1,10 +1,7 @@
 Eu sou Amanda Melo
 
 ###  Desenvolvedora de Sistemas
-
 Sou apaixonada por tecnologia e por transformar problemas em soluções através do desenvolvimento de software.
-
-
 <br>
 
 ##  Tecnologias
@@ -14,7 +11,6 @@ Sou apaixonada por tecnologia e por transformar problemas em soluções através
 </p>
 
 ---
-
 ##  Atualmente estudando
 
 - ⚛️ React
@@ -24,14 +20,12 @@ Sou apaixonada por tecnologia e por transformar problemas em soluções através
 - ☁️ Desenvolvimento Mobile
 
 ---
-
 ##  Áreas de Interesse
 
 - 💻 Desenvolvimento Full Stack
 - 📊 Banco de Dados
 - 📱 Desenvolvimento Mobile
 - 🤖 Inteligência Artificial
-- 📈 Big Data
 
 ---
 
