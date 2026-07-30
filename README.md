@@ -3,7 +3,7 @@
 </p>
 Sou apaixonada por tecnologia e por transformar problemas em soluções através do desenvolvimento de software.
 <br>
-
+<br>
 <p>
   <img src="https://skillicons.dev/icons?i=java,react,js,html,css,postgres,firebase,nodejs,git,github,vscode" />
 </p>
