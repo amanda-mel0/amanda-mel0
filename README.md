@@ -1,3 +1,6 @@
+<p>
+  <img src="https://github.com/user-attachments/assets/98c0396f-1419-4b83-bf20-ab251464b1d8" />
+</p>
 Eu sou Amanda Melo
 
 ###  Desenvolvedora de Sistemas
@@ -12,20 +15,15 @@ Sou apaixonada por tecnologia e por transformar problemas em soluções através
 
 ---
 ##  Atualmente estudando
-
-- ⚛️ React
-- 📱 React Native
-- 🔥 Firebase
-- 🐘 PostgreSQL
-- ☁️ Desenvolvimento Mobile
+-  React
+-  React Native
+-  EXPO
 
 ---
 ##  Áreas de Interesse
-
-- 💻 Desenvolvimento Full Stack
-- 📊 Banco de Dados
-- 📱 Desenvolvimento Mobile
-- 🤖 Inteligência Artificial
+-  Desenvolvimento Full Stack
+-  Banco de Dados
+-  Inteligência Artificial
 
 ---
 
