@@ -1,9 +1,6 @@
 <p>
-  <img  align="center" width="183" height="122" alt="image" src="https://github.com/user-attachments/assets/98c0396f-1419-4b83-bf20-ab251464b1d8" />
+  <img  align="center" width="183" height="122" alt="image" src="https://github.com/user-attachments/assets/a9720e4d-51e5-4ece-9609-fc61905884d2" />
 </p>
-Eu sou Amanda Melo
-
-###  Desenvolvedora de Sistemas
 Sou apaixonada por tecnologia e por transformar problemas em soluções através do desenvolvimento de software.
 <br>
 
