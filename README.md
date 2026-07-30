@@ -6,6 +6,7 @@ Sou apaixonada por tecnologia e por transformar problemas em soluções através
 <p>
   <img src="https://skillicons.dev/icons?i=java,react,js,html,css,postgres,firebase,nodejs,git,github,vscode" />
 </p>
+---
 ##  Atualmente estudando
 
 - React
@@ -20,7 +21,6 @@ Sou apaixonada por tecnologia e por transformar problemas em soluções através
 - Banco de Dados
 - Machine Learning
 
----
 
 
 
