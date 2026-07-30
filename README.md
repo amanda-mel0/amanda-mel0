@@ -1,7 +1,5 @@
-<img   />
-
 <p>
-  <img width="153" height="102" alt="image" src="https://github.com/user-attachments/assets/98c0396f-1419-4b83-bf20-ab251464b1d8" />
+  <img  align="right" width="153" height="102" alt="image" src="https://github.com/user-attachments/assets/98c0396f-1419-4b83-bf20-ab251464b1d8" />
 </p>
 Eu sou Amanda Melo
 
