@@ -7,11 +7,12 @@ Sou apaixonada por tecnologia e por transformar problemas em soluções através
   <img src="https://skillicons.dev/icons?i=java,react,js,html,css,postgres,firebase,nodejs,git,github,vscode" />
 </p>
 
-##  Áreas de Interesse
+##  Atualmente estudando
 
-- Desenvolvimento Full Stack
-- Banco de Dados
-- Machine Learning
+- REACT
+- EXPO
+- PYTHON/PYGAME
+  
 
 ##  Áreas de Interesse
 
