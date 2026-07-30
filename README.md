@@ -1,5 +1,5 @@
 <p>
-  <img  align="center" width="1480" height="396" alt="image" src="https://github.com/user-attachments/assets/a9720e4d-51e5-4ece-9609-fc61905884d2" />
+  <img  align="center" width="1250" height="396" alt="image" src="https://github.com/user-attachments/assets/a9720e4d-51e5-4ece-9609-fc61905884d2" />
 </p>
 Sou apaixonada por tecnologia e por transformar problemas em soluções através do desenvolvimento de software.
 <br>
